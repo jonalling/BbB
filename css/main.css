@@ -30,7 +30,7 @@ section {
 /* Hero */
 
 .hero {
-  padding: 350px 0 250px 0;
+  padding: 300px 0 200px 0;
 }
 
 .building-better {
@@ -48,4 +48,10 @@ section {
 .tagline {
   color: #01FEAE;
   margin-left: 0%;
+}
+
+/* What We Do */
+
+.what-we {
+  background-color: #26CF92;
 }
