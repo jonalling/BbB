@@ -4,13 +4,26 @@
 body {
   font-family: "source-sans-pro", sans-serif;
   background-color: #2F3938;
+}
 
+h1 {
+  font-size: 9.4rem;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 8.0rem;
 }
 
 h4, h5 {
   font-family: "ff-tisa-web-pro",serif;
-
 }
+
+h4 {
+  font-size: 3.2rem;
+}
+
+
 
 
 /* Sections
