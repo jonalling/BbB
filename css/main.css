@@ -46,3 +46,7 @@ section {
   white-space: nowrap;
   overflow: hidden;
 }
+
+.tagline {
+  color: #01FEAE;
+}
