@@ -99,3 +99,27 @@ section {
   white-space: nowrap;
   overflow: hidden;
 }
+
+.gap {
+  background: url('../images/Gap-22.svg') no-repeat 0 0, center;
+  background-size: 100% auto;
+  padding-bottom: 40.23%; /* Keeps aspect ratio. e.g. Original img ratio: 980x150. 150/980*100=15.3% */
+  width: 100%;
+  display: inline-block;
+  font: 0/0 a;
+  color: transparent;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.risk {
+  background: url('../images/Risk-23.svg') no-repeat 0 0, center;
+  background-size: 100% auto;
+  padding-bottom: 40.23%; /* Keeps aspect ratio. e.g. Original img ratio: 980x150. 150/980*100=15.3% */
+  width: 100%;
+  display: inline-block;
+  font: 0/0 a;
+  color: transparent;
+  white-space: nowrap;
+  overflow: hidden;
+}
