@@ -20,8 +20,17 @@ h4, h5 {
 }
 
 h4 {
-  font-size: 2.6rem;
+  font-size: 2.4rem;
+  letter-spacing: 0rem;
 }
+
+h5 {
+  font-size: 1.4rem;
+  letter-spacing: 0rem;
+  color: #2F3938;
+}
+
+
 
 
 
@@ -72,4 +81,16 @@ section {
 
 .title {
   color: #FEFEFE;
+}
+
+.focus {
+  background: url('../images/Focus-21.svg') no-repeat 0 0, center;
+  background-size: 100% auto;
+  padding-bottom: 40.23%; /* Keeps aspect ratio. e.g. Original img ratio: 980x150. 150/980*100=15.3% */
+  width: 100%;
+  display: inline-block;
+  font: 0/0 a;
+  color: transparent;
+  white-space: nowrap;
+  overflow: hidden;
 }
