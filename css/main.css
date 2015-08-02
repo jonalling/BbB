@@ -36,10 +36,8 @@ section {
 .building-better {
   background: url('../images/Hero-19.svg') no-repeat 0 0, center;
   background-size: 100% auto;
-  padding-bottom: 15.3%; /* Keeps aspect ratio. Original img ratio: 980x150. 150/980*100=15.3% */
-  margin-bottom: 20px;
+  padding-bottom: 8.96%; /* Keeps aspect ratio. e.g. Original img ratio: 980x150. 150/980*100=15.3% */
   width: 100%;
-  max-width: 800px;
   display: inline-block;
   font: 0/0 a;
   color: transparent;
