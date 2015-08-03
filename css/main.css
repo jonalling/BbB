@@ -85,7 +85,14 @@ section {
 }
 
 .what-we-row {
-  padding-top: 100px;
+  padding-top: 150px;
+}
+
+.what-we-gutter {
+  margin-right: 30px;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #2F3938;  
 }
 
 .focus {
